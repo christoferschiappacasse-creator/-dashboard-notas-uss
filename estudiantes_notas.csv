@@ -1,0 +1,13 @@
+﻿id,estudiante,sexo,seccion,edad,nota_1,nota_2,asistencia
+E01,Ana,Mujer,A,19,6.5,6.1,95
+E02,Luis,Hombre,A,20,5.8,5.4,88
+E03,Sofía,Mujer,A,18,3.9,4.3,72
+E04,Diego,Hombre,B,21,2.8,3.4,60
+E05,Marta,Mujer,B,20,4.5,5.1,90
+E06,Pedro,Hombre,B,19,6.3,5.9,96
+E07,Carla,Mujer,C,22,5.4,5.8,82
+E08,Juan,Hombre,C,18,3.2,3.8,68
+E09,Lucía,Mujer,C,21,6.8,6.4,98
+E10,Andrés,Hombre,D,20,4,4.4,78
+E11,Camila,Mujer,D,19,5,4.6,85
+E12,Tomás,Hombre,D,22,6,6.6,92
